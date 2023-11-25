@@ -1,0 +1,50 @@
+/* Estilo do Projeto */
+.login{
+   width: 100%;
+   height: 100vh; /* viewport - área de visualização */
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   background: linear-gradient(to right, #B20000, #4A565C);
+}
+
+/* Carrossel de Imagens */
+.carousel-container {
+   width: 50%;
+   margin: auto;
+   overflow: hidden;
+}
+
+.carousel { /*Tempo de passagem de cada imagem*/
+   display: flex;
+   transition: transform 0.5s ease-in-out;
+}
+
+.carousel img {
+   width: 100%;
+   height: auto;
+}
+
+.carousel-btn {
+   cursor: pointer;
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   font-size: 24px;
+   background-color: #3498db;
+   color: #fff;
+   border: none;
+   padding: 10px;
+   border-radius: 5px;
+}
+
+.prev {
+   left: 10px;
+}
+
+.next {
+   right: 10px;
+}
+
+/*Fim do carrossel */
