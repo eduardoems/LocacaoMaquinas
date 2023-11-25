@@ -20,6 +20,12 @@ Gustavo Machado <br>
 </a>
 
 
+Julia Casali <br>
+<a href="https://www.linkedin.com/in/julia-casali-937349233/" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
 ## 📋 Instruções
 
 - [ ] Inicialmente clone o projeto; 
