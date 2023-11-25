@@ -12,6 +12,10 @@ Eduardo de Moraes <br>
 <a href="https://www.linkedin.com/in/eduardo-de-moraes-souza-b224586b/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+Gustavo Machado <br>
+<a href="https://www.linkedin.com/in/gustavo-machado-bb596622a/" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 ## 📋 Instruções
